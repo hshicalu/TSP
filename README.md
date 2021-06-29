@@ -1,2 +1,2 @@
 # TSP
-Prictice TSP(traveling salesman problem).
+prictice TSP(traveling salesman problem).
