@@ -1,0 +1,12 @@
+# General
+nohup.out
+.DS_Store
+.vscode/
+*lp
+*png
+# Python-related
+.ipynb_checkpoints/
+__pycache__/
+
+# direnv
+.envrc
