@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 
 num = 50
-directory = "/Users/hs/MyGraduation/dataset_tsp/tsp_dataset_{0}.csv".format(num)
+directory = "dataset_tsp/tsp_dataset_{0}.csv".format(num)
 tsp_list = [[0, 0]]
 
 with open(directory, 'r') as file:
