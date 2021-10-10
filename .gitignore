@@ -2,8 +2,8 @@
 nohup.out
 .DS_Store
 .vscode/
-*lp
-*png
+*.lp
+*.png
 # Python-related
 .ipynb_checkpoints/
 __pycache__/
