@@ -2,8 +2,15 @@
 nohup.out
 .DS_Store
 .vscode/
+
+*.csv
 *.lp
 *.png
+
+ans_tsp/
+
+tsp_model*
+
 # Python-related
 .ipynb_checkpoints/
 __pycache__/
